@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides the course policy of MIT course 21G.103 Chinese III
+  (Regular) of Fall, 2018.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

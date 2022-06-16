@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides additional resources for the MIT course 21G.103 Chinese
+  III (Regular) of Fall 2018.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -20,4 +22,4 @@ Food for Thought
 
 Think about the role a student plays in a Chinese learning class. Watch this [instructor interview](/courses/21g-101-chinese-i-regular-fall-2014/resources/motivating-students) to understand the five different roles a student can choose when learning Chinese. \[Note: In the graph below, C2 refers to the intermediate level of Chinese.\]
 
-![An illustration of student's role to play in this Chinese learning class, including the roles of ]({{< resource_file 260aca32-6d22-7455-c083-28b669c962fd >}})
+{{< resource 260aca32-6d22-7455-c083-28b669c962fd >}}

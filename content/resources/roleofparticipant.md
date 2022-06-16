@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-103-chinese-iii-regular-fall-2018/260aca326d227455c08328b669c962fd_RoleOfParticipant.png
+file: /courses/21g-103-chinese-iii-regular-fall-2018/260aca326d227455c08328b669c962fd_RoleOfParticipant.png
 file_type: image/png
 image_metadata:
   caption: ''

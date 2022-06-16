@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides information on the format of the review test of the
+  MIT course 21G.103 Chinese III of Fall, 2018.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Review Test Format
