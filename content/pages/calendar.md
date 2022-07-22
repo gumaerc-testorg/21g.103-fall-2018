@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page provides the class schedule of MIT course 21G.103 Chinese III
+  (Regular) of Fall, 2018.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 404a7a8f-a7e7-3eff-66fe-a6c8f28ab5e6
 ---
