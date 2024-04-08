@@ -31,7 +31,7 @@ Textbooks
 3.   Cornelius C. Kubler, _Intermediate Written Chinese_. Tuttle Publishing, 2016. ISBN: 9780804840200
 4.   Cornelius C. Kubler and Jerling Guo Kubler, _Intermediate Written Chinese Practice Essentials_. Tuttle Publishing, 2018. ISBN: 9780804850520
 
-All the audio and videos of the materials are available on [Tuttle Publishing](https://www.tuttlepublishing.com/downloadable-content). Please scroll down to “[Intermediate Spoken Chinese](https://www.tuttlepublishing.com/intermediate-spoken-chinese-audio-pdfs)” to download.
+All the audio and videos of the materials are available on {{% resource_link "eb10e206-9a0f-4483-a673-7c36f60c5123" "Tuttle Publishing" %}}. Please scroll down to “{{% resource_link "77f9a38f-03c1-4346-81ee-94a2790136b8" "Intermediate Spoken Chinese" %}}” to download.
 
 Evaluation
 ----------
