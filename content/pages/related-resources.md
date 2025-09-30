@@ -11,11 +11,11 @@ uid: 4645052e-4abf-10b0-354d-f9cfca50347a
 Useful ReSources
 ----------------
 
-[Online Chinese-English Talking Dictionary](https://www.yellowbridge.com/chinese/)
+{{% resource_link "f2ebf0b0-601e-46e0-8e95-707b5226fbda" "Online Chinese-English Talking Dictionary" %}}
 
-[Simplified to Traditional Characters Converter](https://www.chinese-tools.com/tools/converter-simptrad.html)
+{{% resource_link "19aa7c18-139f-4347-b59b-4ebe231af6e4" "Simplified to Traditional Characters Converter" %}}
 
-[Chinese Characters to Pinyin Converter](https://www.purpleculture.net/chinese-pinyin-converter/)
+{{% resource_link "7943c67e-66b8-4404-a545-f8cf2725f3f9" "Chinese Characters to Pinyin Converter" %}}
 
 Food for Thought
 ----------------
