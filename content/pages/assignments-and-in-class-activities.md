@@ -584,8 +584,8 @@ Hand in the following homework in next class:
 Additional Assignment:
 
 1. Start to work on your essay.
-2. Watch these two videos about 主食, "{{% resource_link "03d44690-de67-415d-b050-6327a7a9b3e1" "舌尖上的中國—主食的故事" %}}" (with narration in Chinese) and Chinese subtitles and "{{% resource_link "9d9840b9-3f5b-4b4b-b293-0ffd949b873b" "A Bite of China—The Story of Staple Food" %}}" (with narration in English and Chinese subtitles.)
-3. Write down five terms of 主食 you learn from this video, both in Chinese characters and in English (e.g. 面 noodles) and turn in in next class. You can use an {{% resource_link "51aa7ace-17b7-4bc6-a672-3877eca4d644" "online dictionary" %}} to complete this assignment.
+2. Watch these two videos about 主食, "[舌尖上的中國—主食的故事](https://www.youtube.com/watch?v=LDl0Q-XmiSk&feature=youtu.be)" (with narration in Chinese) and Chinese subtitles and "[A Bite of China—The Story of Staple Food](https://www.youtube.com/watch?v=B8lTWruUaQc&feature=youtu.be)" (with narration in English and Chinese subtitles.)
+3. Write down five terms of 主食 you learn from this video, both in Chinese characters and in English (e.g. 面 noodles) and turn in in next class. You can use an [online dictionary](https://www.yellowbridge.com/chinese/dictionary.php) to complete this assignment.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -741,7 +741,7 @@ No assignment
     - Complete the question sheet (under “Printable PDFs” > 5. Listening comprehension\_Unit15-24.
     - Listen to the audio recordings: under “Audio Files” > Unit 5 Audio Listening Comprehension.
 
-\*These files are also available on the {{% resource_link "2b7f0493-ff0f-405c-8726-87d24e70f6db" "Tuttle Publishing website" %}}.
+\*These files are also available on the [Tuttle Publishing website](https://www.tuttlepublishing.com/intermediate-spoken-chinese-audio-pdfs).
 
 1.  \[ICSPB\] P.207.
 
